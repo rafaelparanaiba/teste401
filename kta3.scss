@@ -39,7 +39,7 @@ $brand-primary:             #49535d;
 $brand-success:             $green !default;
 $brand-info:                $teal !default;
 $brand-warning:             $orange !default;
-$brand-danger:              $red !default;
+$brand-danger:              @red !default;
 $brand-inverse:             $gray-dark !default;
 
 
